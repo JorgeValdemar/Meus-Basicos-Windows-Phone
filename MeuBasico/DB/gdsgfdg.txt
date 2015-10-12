@@ -1,0 +1,1 @@
+sqlmetal "C:\Users\Fiap\Documents\Visual Studio 2013\Projects\WP.Prova\WP.Prova\DB\Mercado.sdf" /code:"C:\Users\Fiap\Documents\Visual Studio 2013\Projects\WP.Prova\WP.Prova\DB\ORMMercado.cs" /language:csharp /namespace:"WP.SqlCEMercado" /Context:"MercadoDbContext" /pluralize
